@@ -1,6 +1,6 @@
-#include <andrelandia.h>
-#include <games.h>
-#include <tibia.c>
+-#include <andrelandia.h>
+-#include <games.h>
+-#include <tibia.c>
 
 - 👋 Hi, I’m Kariny! 👋
 - 👀 I’m interested in experience, development, contribution and cooperation.
